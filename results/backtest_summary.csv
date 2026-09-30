@@ -1,0 +1,4 @@
+Strategy,Initial_Capital,Final_Capital,Total_Return_%,N_Trades,N_Long_Days,N_Flat_Days,Total_Transaction_Costs
+LSTM Strategy,100000.0,102965.07,2.97,6,6,516,603.5
+Buy & Hold,100000.0,151797.37,51.8,0,0,0,0.0
+Random Forest Strategy,100000.0,101019.93,1.02,46,25,527,4569.22

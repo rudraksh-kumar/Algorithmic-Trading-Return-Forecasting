@@ -1,0 +1,7 @@
+Model,Type,MAE,RMSE,R²
+XGBoost,Classical ML,0.009539,0.011869,0.0002
+Ridge,Classical ML,0.00956,0.011885,-0.0023
+GRU,Deep Learning,0.009518,0.011907,0.0003
+RandomForest,Classical ML,0.009583,0.011939,-0.0115
+Vanilla RNN,Deep Learning,0.009576,0.011958,-0.0083
+LSTM,Deep Learning,0.009604,0.012008,-0.0168

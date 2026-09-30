@@ -1,0 +1,3 @@
+max_depth,learning_rate,subsample,n_estimators_best,val_rmse,val_mae,val_r2
+3,0.02,0.7,29,0.0113602,0.009101,-0.00111
+3,0.05,0.7,15,0.0113823,0.0091203,-0.00501

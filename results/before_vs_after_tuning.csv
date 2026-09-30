@@ -1,0 +1,5 @@
+Model,Best_Params,Before_Val_RMSE,After_Val_RMSE,Val_RMSE_Improvement_%,Before_Val_R2,After_Val_R2,Final_Test_RMSE,Final_Test_R2
+Ridge,"{'alpha': 1000.0, 'pca_variance': 0.95}",0.011394,0.011402,-0.07,-0.0071,-0.0086,0.015558,-0.7178
+RandomForest,"{'n_estimators': 100, 'max_depth': 5, 'min_samples_leaf': 3}",0.011461,0.011397,0.56,-0.0189,-0.0076,0.011884,-0.0023
+XGBoost,"{'n_estimators': 29, 'max_depth': 3, 'learning_rate': 0.02, 'subsample': 0.7, 'colsample_bytree': 0.7, 'reg_alpha': 0.05, 'reg_lambda': 1.0, 'min_child_weight': 5}",0.01136,0.01136,-0.0,-0.0011,-0.0011,0.011878,-0.0012
+LSTM,"{'hidden_size': 64, 'num_layers': 2, 'lr': 0.001, 'seq_len': 30, 'dropout': 0.2, 'batch_size': 32}",0.011426,0.011456,-0.26,-0.0025,-0.0078,0.011909,-0.0001

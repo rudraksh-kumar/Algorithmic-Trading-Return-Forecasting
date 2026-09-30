@@ -1,0 +1,4 @@
+Strategy,Total_Return_%,CAGR_%,Ann_Volatility_%,Sharpe_Ratio,Sortino_Ratio,Max_Drawdown_%,Calmar_Ratio,Win_Rate_%,Profit_Factor,N_Trading_Days
+LSTM Strategy,3.59,1.71,1.17,-1.965,-2.652745841809627e+16,0.0,0.0,1.15,inf,522
+RF Strategy,5.78,2.6,4.04,-0.335,-0.575,-3.9,0.667,2.9,1.674,552
+Buy & Hold,51.8,22.32,18.9,0.949,1.677,-12.94,1.726,52.68,1.201,522

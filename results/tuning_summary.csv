@@ -1,0 +1,5 @@
+Model,alpha,pca_variance,n_estimators,max_depth,min_samples_leaf,learning_rate,subsample,colsample_bytree,reg_alpha,reg_lambda,min_child_weight,hidden_size,num_layers,lr,seq_len,dropout,batch_size
+Ridge,1000.0,0.95,,,,,,,,,,,,,,,
+RandomForest,,,100,5,3,,,,,,,,,,,,
+XGBoost,,,29,3,,0.02,0.7,0.7,0.05,1.0,5,,,,,,
+LSTM,,,,,,,,,,,,64,2,0.001,30,0.2,32
